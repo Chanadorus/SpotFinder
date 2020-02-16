@@ -1,0 +1,6 @@
+This program will read which building a person requests in an outside textbot,
+performs calculation and determines the best lot one should go to.
+
+This program works best in Eclipse, as that is where it was tested.
+Because of time and inexperience, the reccomended parking lot is not sent
+back to the chatbot, but is instead displayed here.
